@@ -1,0 +1,10 @@
+firmware/
+keys/*
+*.o
+*.swp
+trans_keys.txt
+sn.txt
+*.der
+*.pem
+prog.hex
+out/*
