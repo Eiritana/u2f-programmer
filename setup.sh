@@ -16,6 +16,8 @@ fi
 
 unzip -o $1
 
+rm -f $1
+
 port=$2
 attest_priv=priv.pem
 attest_pub=pub.der
